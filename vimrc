@@ -15,3 +15,4 @@ vnoremap <A-k> :m '<-2<CR>gv=gv
 "   In normal mode or in insert mode, press Alt-j to move the current line down, or press Alt-k to move the current line up.
 "   After visually selecting a block of lines (for example, by pressing V then moving the cursor down), press Alt-j to move the whole block down, or press Alt-k to move the block up.
 noremap <C-d> yyp
+" sourced in `C:\Users\sergi\AppData\Local\Programs\Microsoft VS Code\.vimrc` for Visual Studio Code on WSL
